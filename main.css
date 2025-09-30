@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
+
+.navbar {
+    color: blue;
+    background-color: lightgray;
+}
+
+.navbar h1 {
+    font-size: 24px;
+    text-align: center;
+}
